@@ -1,5 +1,6 @@
-# Task-3-Terraform![Screenshot from 2023-01-30 16-51-31](https://user-images.githubusercontent.com/99266660/215565034-00d1c18a-bde8-46a2-b923-3d457493b86a.png)
-![Screenshot from 2023-01-30 16-54-58](https://user-images.githubusercontent.com/99266660/215565041-0176e928-c983-45d6-9665-8b6a55e7d8df.png)
+
 ![image](https://user-images.githubusercontent.com/99266660/215572023-8ee8967c-aab0-4e82-ad37-424b76e87b65.png)
 ![image](https://user-images.githubusercontent.com/99266660/215577572-7babfb2b-9044-4ace-8794-87426bea2420.png)
 ![image](https://user-images.githubusercontent.com/99266660/215577724-ffe5ecf8-6f67-4fd0-b459-7739414cbfa0.png)
+![Screenshot from 2023-01-30 21-38-05](https://user-images.githubusercontent.com/99266660/215578731-9a92a851-7040-4ad9-bd0c-076746983563.png)
+![Screenshot from 2023-01-30 21-38-15](https://user-images.githubusercontent.com/99266660/215578734-5d2f7e5b-d2d7-47f3-9a01-3d3daabcde85.png)
